@@ -1,0 +1,43 @@
+/* Button-bar css */
+.button-bar
+{
+    margin: 70px auto;
+    background-color: #373a3c; opacity: .50;
+    height: 50px;
+    color: white;
+}
+ul.buttons
+{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+li.button
+{
+    margin: 7.5px 5px 0 5px;
+}
+li.button a
+{
+    text-decoration: none;
+    color: white;
+}
+/* Button Side bars */
+/*Inventory Side bar */
+.main-container
+{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.button-side-bar-left
+{
+   
+    width: 250px;
+    height: 550px;
+}
+.button-main
+{
+    
+    width: 900px;
+    height: 550px;
+}
