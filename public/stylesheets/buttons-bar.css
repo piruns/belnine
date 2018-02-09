@@ -29,15 +29,19 @@ li.button a
     justify-content: space-evenly;
 
 }
-.button-side-bar-left
+.showInventoryPannel
 {
    
     width: 250px;
     height: 550px;
+    background-color: white;
+    color: black;
 }
 .button-main
 {
     
     width: 900px;
     height: 550px;
+    background-color: white;
+    color: black;
 }
